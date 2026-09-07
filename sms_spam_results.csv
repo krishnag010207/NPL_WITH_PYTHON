@@ -1,0 +1,7 @@
+Metric,Value
+Total Messages,5572
+Ham Messages,4825
+Spam Messages,747
+Training Messages,4457
+Testing Messages,1115
+Accuracy,97.49%
